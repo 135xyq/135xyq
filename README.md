@@ -14,7 +14,8 @@
 - ⚡ Fun fact: ...
  -->
 
-Hi,I’m xyq                             ![](https://github-readme-stats.vercel.app/api?username=135xyq)
+Hi,I’m xyq                             
 > I am a Front-end web developer.
 
 [](https://xyq135.com/)
+![](https://github-readme-stats.vercel.app/api?username=135xyq)
