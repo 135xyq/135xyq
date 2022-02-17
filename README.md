@@ -19,4 +19,4 @@ Hi,I’m xyq
 
 [https://xyq135.com/](https://xyq135.com/)
 
-![](https://github-readme-stats.vercel.app/api?username=135xyq)
+![](https://github-readme-stats.vercel.app/api?username=135xyq&theme=dark)
