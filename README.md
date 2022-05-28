@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
  -->
 
-Hi,I’m xyq                             
+Hi,I’m 谢永强                             
 > I am a Front-end web developer.
 
 [https://xyq135.com/](https://xyq135.com/)
