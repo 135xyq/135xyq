@@ -23,4 +23,4 @@ Hi,I’m xyq
 
 [http://xyq135.top/](http://xyq135.top/)
 
-![](https://github-readme-stats.vercel.app/api?username=135xyq&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=135xyq&theme=radical&count_private=true)
