@@ -17,7 +17,7 @@
 ## I am a Front-end web developer.
 
 
-[学习笔记](https://xyq135.com/)  
+[学习笔记](https://135xyq.github.io/)  
 
 [个人空间](http://xyq135.top/)
 
