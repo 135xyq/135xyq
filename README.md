@@ -19,7 +19,6 @@
 
 [学习笔记](https://135xyq.github.io/)  
 
-[个人空间](http://xyq135.top/)
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=135xyq" /> </div>
 
