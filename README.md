@@ -33,10 +33,3 @@
  </div>
  
  
- 
- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=135xyq&theme=xcode&hide_title=true" /> </div>
- 
- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=135xyq" /> </div>
- 
-<!--  
- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=135xyq" /> </div> -->
